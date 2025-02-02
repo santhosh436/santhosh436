@@ -51,7 +51,7 @@ I am a Full Stack Developer with a passion for creating stunning web application
 <!-- Contact -->
 ## Contact
 
-Feel free to reach out to me via [email@example.com](mailto:santhoshmodi051@gmail.com).
+Feel free to reach out to me via [santhoshmodi051@gmail.com](mailto:santhoshmodi051@gmail.com).
 
 <!-- Footer with a GIF -->
 <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="200">
