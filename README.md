@@ -1,5 +1,5 @@
 <!-- Header with a GIF -->
-<img src="https://i.pinimg.com/736x/52/70/16/527016e4e3dfdd806da99161e91f1d50.jpg" width="1000" height="240">
+<img src="https://img.freepik.com/free-photo/saas-concept-collage_23-2149399288.jpg?t=st=1739243978~exp=1739247578~hmac=2865977013d2182a7b38ab1d6ebda8978a42e0ddfe876b4c9b9220b29922dd10&w=1800" width="1000" height="260">
 
 <!-- Title -->
 # Hi, I'm Santhosh! 👋
